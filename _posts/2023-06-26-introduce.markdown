@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduce
-image: 13.jpg
+image: 1.jpg
 date: 2023-06-26 
 tags:
 categories: guide
